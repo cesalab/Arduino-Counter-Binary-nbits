@@ -1,7 +1,7 @@
-	Contador binario de n bits v0.1, se limita a ingresar: n bits, asi
+Contador binario de n bits v0.1, se limita a ingresar: n bits, asi
 como la señal que aplicara como ENCENDIDO y APAGADO.
 
-	Se emplean dos contadores, uno para el contador principal, indicado
+Se emplean dos contadores, uno para el contador principal, indicado
 en valor decimal, el cual pasara a binario y sera asignado a los pines 
 de salida de arduino. El segundo contador es para generar el num_module
 y num_comparator, el cual genera los valores a usar para saber si se le 
